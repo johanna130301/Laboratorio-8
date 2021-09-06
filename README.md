@@ -8,9 +8,18 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 * Objetivo General
 
+• Estudiar los circuitos RC y RL, verificar la relación que tienen los voltajes medidos con el multímetro y el osciloscopio utilizando una fuente de voltaje alterno. Mediante el uso de un simulador de circuitos electrónicos. Escribir los datos adquiridos en tablas y posteriormente analizar los resultados de acuerdo a la teoría vista en clases.
 
+* Objetivos Específicos
 
-* Objetivos Específicos 
+• Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+• Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+• Familiarizarse con el uso de instrumentos de medida.
+
 
 
 
