@@ -34,7 +34,7 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 **3. PROCEDIMIENTO**
 
-<img src=Img/1.1.JPEG>
+<img src=1.1.jpeg>
 
 **4. ANALISIS DE RESULTADOS**
 
