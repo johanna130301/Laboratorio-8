@@ -73,7 +73,7 @@ Porque el osciloscopio se le mide en un tiempo, mientras que el multímetro no
 
 **4. VIDEO**
 
-
+https://youtu.be/smtynY4UDNA
 
 **5. CONCLUCIONES**
 
