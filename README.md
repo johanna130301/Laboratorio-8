@@ -20,17 +20,17 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 **3. MATERIALES**
 
-1 Generador de Funciones
+  1 Generador de Funciones
 
-1 Osciloscopio
+  1 Osciloscopio
 
-1 Multímetro Digital
+  1 Multímetro Digital
 
-1 Resistor de 1 kΩ
+  1 Resistor de 1 kΩ
 
-1 Resistor de 2.2 kΩ
+  1 Resistor de 2.2 kΩ
 
-1 Protoboard
+  1 Protoboard
 
 **3. PROCEDIMIENTO**
 
